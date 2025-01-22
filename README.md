@@ -1,12 +1,13 @@
 <div align="center">
   <h1>👋 Hi, I'm Mainak Majumder</h1>
-  <p>🚀 Full Stack Developer | 💻 Web Enthusiast | 🌱 Continuous Learner</p>
+  <p>Full Stack Developer | Web Enthusiast | Continuous Learner</p>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mainak-majumder"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mainakoffcial.write@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/mainak1023"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<!--   <a href="https://x.com/Mainak1610"><img src="https://img.shields.io/badge/-Twitter-181717?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
 </p>
 
 ## 🎭 About Me
@@ -35,6 +36,7 @@ I'm a passionate full stack developer with internship experience and project con
 
 ## 🚀 Projects
 
+- 🌐 Website for Computer Science Dept. of Mankar College
 - 🎵 Spotify Clone using React.js
 - 🖌️ White-board using React.js
 - 🌐 Responsive Website for a local publication house
@@ -44,6 +46,7 @@ I'm a passionate full stack developer with internship experience and project con
 
 ## 💼 Experience
 
+- **Co Founder** at Prime-Dev Technologies Pvt. Ltd. (Jan 2025 - Current)
 - **Web Developer Intern** at ShadowFox (May 2024 - June 2024)
 - **Web Developer Intern** at CodersCave (May 2024 - June 2024)
 - **Web Developer Intern** at CodSoft (April 2024 - May 2024)
@@ -57,7 +60,7 @@ I'm a passionate full stack developer with internship experience and project con
 ## 📫 Get in Touch
 
 - LinkedIn: [mainak-majumder](https://www.linkedin.com/in/mainak-majumder)
-- Email: mainakoffcial.write@gmail.com
+- Email: mainak1112@gmail.com
 - Phone: +91 8629997123
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
