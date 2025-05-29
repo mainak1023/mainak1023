@@ -1,11 +1,5 @@
 <div align="center">
-
-# 📊 Real-time Developer Analytics Dashboard
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;A+Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,9 +24,6 @@
 <td width="33%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mainak1023&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00CCFF&fire=FF6B6B&currStreakLabel=00FF88" alt="GitHub Streak" />
 </td>
-<td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainak1023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" />
-</td>
 </tr>
 </table>
 
@@ -40,24 +31,42 @@
 
 <div align="center">
 
-## 📈 Code Statistics Dashboard
-
-</div>
+# 📈 Code Statistics Dashboard
 
 <div align="center">
 
-| 📊 **Metric** | 🔢 **Value** | 📈 **Status** |
-|:-------------:|:------------:|:-------------:|
-| ⭐ **Total Stars Earned** | `16` | 🔥 Growing |
-| 📝 **Total Commits** | `762+` | ⚡ Active |
-| 🔀 **Pull Requests** | `15+` | ✅ Merged |
-| 🐛 **Issues Resolved** | `8+` | 🛠️ Fixed |
-| 🏆 **Contribution Streak** | `45 days` | 🔥 Hot |
-| 📦 **Repositories** | `20+` | 📚 Diverse |
+## 🚀 **Developer Metrics Overview**
 
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📊 **Performance Stats**
+| 🎯 **Metric** | 🔢 **Value** | 📈 **Status** |
+|:-------------:|:------------:|:-------------:|
+| ⭐ **Total Stars Earned** | `16` | 🔥 **Growing** |
+| 📝 **Total Commits** | `762+` | ⚡ **Active** |
+| 🔀 **Pull Requests** | `15+` | ✅ **Merged** |
+| 🐛 **Issues Resolved** | `8+` | 🛠️ **Fixed** |
+| 🏆 **Contribution Streak** | `45 days` | 🔥 **Hot** |
+| 📦 **Repositories** | `20+` | 📚 **Diverse** |
+
+</td>
+<td align="center" width="50%">
+
+### 💻 **Language Distribution**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainak1023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&card_width=350" alt="Top Programming Languages" />
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
+<sub>💡 <strong>Keep coding, keep growing!</strong> • Last updated: <em>Real-time</em> ⚡</sub>
+</div>
 
 <div align="center">
 
@@ -105,7 +114,7 @@
 
 ---
 
-<div align="center">
+<div >
 
 ## 💼 Professional Journey
 
