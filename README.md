@@ -1,145 +1,255 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;A+Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+
+# **MAINAK MAJUMDER**
+
+**Full-Stack Developer** • **Problem Solver** • **Tech Enthusiast**
+
+> *"উত্তিষ্ঠত জাগ্রত প্রাপ্য বরান নিবোধত"* — Arise, awake, and stop not until the goal is reached
+
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║                    Welcome to my Code Universe!              ║
+║                                                              ║
+║     West Bengal, India  •   Code-Driven  •   Always Learning ║
+║                                                              ║
+║        "Build with purpose, code with passion"              ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
+
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-🔥_Active_Developer-brightgreen?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Focus-⚡_Full_Stack-blue?style=for-the-badge&logo=code"/>
-  <img src="https://img.shields.io/badge/Experience-🚀_3+_Years-orange?style=for-the-badge&logo=trophy"/>
+
+### **Digital Presence**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://mainakmajumder.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-majumder/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainak1112@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=mainak1023&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
 
+## **System.getCurrentStatus()**
+
+\`\`\`javascript
+const mainak = {
+  // Personal Matrix
+  personalInfo: {
+    name: "Mainak Ghosh",
+    location: "West Bengal, India",
+    role: "Full-Stack Developer",
+    company: "Co-Founder @ Clustrix.tech Pvt. Ltd.",
+    experience: "3+ Years",
+    languages: ["Python", "JavaScript", "Java"]
+  },
+
+  // Current Mission
+  currentFocus: [
+    "Building scalable web applications",
+    "Leading technical decisions",
+    "Mentoring fellow developers",
+    "Contributing to open source"
+  ],
+
+  // Philosophy
+  philosophy: {
+    code: "Clean code is not written by following a set of rules",
+    learning: "Every challenge is an opportunity to grow",
+    leadership: "Great leaders create more leaders"
+  },
+
+  // Fun Facts
+  funFacts: [
+    "762+ commits and counting",
+    "Teaching experience: 2+ years",
+    "Triple internship achiever in 2024",
+    "Coffee-to-code ratio: 1:100 lines"
+  ]
+};
+
+console.log("Building the future, one commit at a time!");
+\`\`\`
+
+---
+
+## **Tech Arsenal**
+
 <div align="center">
 
-## 🎯 Live GitHub Analytics
+### **Core Technologies**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
+---
+
+## **Professional Journey**
+
+\`\`\`
+2025 ━━━━━━━━━━● Co-Founder @ Prime-Dev Technologies
+     │          └─ Leading technical architecture & innovation
+     │
+2024 ━━━━━━━━━━● Triple Internship Achievement
+     │          ├─ ShadowFox: Web Development Mastery
+     │          ├─ CodersCave: Full-Stack Excellence  
+     │          └─ CodSoft: Frontend Specialization
+     │
+2022 ━━━━━━━━━━● Computer Instructor @ Computer Infotech
+     │          └─ Teaching & Mentoring (2+ years)
+     │
+2019 ━━━━━━━━━━● Academic Foundation
+     └────────── BSc Computer Science Journey
+\`\`\`
+
+---
+
+## **GitHub Analytics**
+
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mainak1023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=00CCFF&count_private=true" alt="GitHub Stats" />
+<td width="50%">
+
+**Performance Metrics**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainak1023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 </td>
-<td width="33%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mainak1023&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00CCFF&fire=FF6B6B&currStreakLabel=00FF88" alt="GitHub Streak" />
+<td width="50%">
+
+**Language Distribution**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainak1023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 </td>
 </tr>
 </table>
 
----
+**Contribution Activity**
 
-<div align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mainak1023&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=ffa657&currStreakLabel=58a6ff)
 
-# 📈 Code Statistics Dashboard
-
-<div align="center">
-
-## 🚀 **Developer Metrics Overview**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📊 **Performance Stats**
-| 🎯 **Metric** | 🔢 **Value** | 📈 **Status** |
-|:-------------:|:------------:|:-------------:|
-| ⭐ **Total Stars Earned** | `16` | 🔥 **Growing** |
-| 📝 **Total Commits** | `762+` | ⚡ **Active** |
-| 🔀 **Pull Requests** | `15+` | ✅ **Merged** |
-| 🐛 **Issues Resolved** | `8+` | 🛠️ **Fixed** |
-| 🏆 **Contribution Streak** | `45 days` | 🔥 **Hot** |
-| 📦 **Repositories** | `20+` | 📚 **Diverse** |
-
-</td>
-<td align="center" width="50%">
-
-### 💻 **Language Distribution**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainak1023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&card_width=350" alt="Top Programming Languages" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-<sub>💡 <strong>Keep coding, keep growing!</strong> • Last updated: <em>Real-time</em> ⚡</sub>
-</div>
-
-<div align="center">
-
-## 🔥 Activity Heatmap & Contributions
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainak1023&bg_color=0D1117&color=00FF88&line=00CCFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mainak1023&theme=github_dark" alt="Profile Summary" />
-</div>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack Mastery
-
-</div>
-
-<div align="center">
-
-### 🚀 Current Stack (2025)
-
-**Core Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,js,python,php&theme=dark" />
-
-**Frontend Arsenal**
-<br>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" />
-
-**Backend & Database**
-<br>
-<img src="https://skillicons.dev/icons?i=spring,mysql,nodejs&theme=dark" />
-
-**Development Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mainak1023&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area=true&area_color=f85149)
 
 </div>
 
 ---
 
-<div >
+## **Ancient Wisdom for Modern Developers**
 
-## 💼 Professional Journey
+<div align="center">
+
+### **Bhagavad Gita for Coders**
+
+> ### *"যদা যদা হি ধর্মস্য গ্লানির্ভবতি ভারত।*
+> ### *অভ্যুত্থানমধর্মস্য তদাত্মনং সৃজামহ্যম্।।*
+> ### *পরিত্রাণায় সাধূনাং বিনাশায় চ দুষ্কৃতাম্।*
+> ### *ধর্মসংস্থাপনার্থায় সম্ভবামি যুগে যুগে।।"*
+
+> **"Whenever there is a decline in righteousness and an increase in unrighteousness, I manifest myself. For the protection of the good and the destruction of evil, and for the establishment of righteousness, I come into being age after age."**
+> 
+> *— Bhagavad Gita 4.7-8*
+> 
+> **Developer Translation:** *When legacy code becomes unmaintainable and bugs multiply, a skilled developer emerges to refactor, debug, and establish clean coding practices for future generations.*
 
 </div>
 
-<div >
+---
 
-```ascii
-🏢 Career Timeline
+## **Achievement Highlights**
 
-2025 ━━━━━━━━━━○ Co-Founder @ Prime-Dev Technologies Pvt. Ltd.
-     │          ├─ Leading technical decisions
-     │          └─ Building innovative solutions
-     │
-2024 ━━━━━━━━━━○ Triple Internship Year
-     │          ├─ ShadowFox (May-Jun) - Web Development
-     │          ├─ CodersCave (May-Jun) - Full Stack Projects  
-     │          └─ CodSoft (Apr-May) - Frontend Specialization
-     │
-2022 ━━━━━━━━━━○ Computer Instructor @ Computer Infotech
-     │          └─ Teaching & Mentoring (Aug 2022 - Mar 2024)
-     │
-2019 ━━━━━━━━━━○ Academic Journey Begins
-     └────────── BSc Computer Science
-```
+<div align="left">
+
+### **2024-2025 Milestones**
+
+\`\`\`bash
+\$ cat ~/.achievements | grep -E "(recent|2024|2025)" | head -8
+
+[2025-01-01]  Leadership: Co-founded Prime-Dev Technologies
+[2024-12-15]  Mentorship: Successfully guided 20+ students
+[2024-08-30]  Triple Achievement: Completed 3 internships simultaneously  
+[2024-06-20]  Technical Growth: Mastered Spring Boot & React ecosystem
+[2024-04-15]  Community Impact: 762+ commits across projects
+[2024-02-10]  Teaching Excellence: 2+ years of instruction experience
+
+Total Achievements: 25+ | Rank: Senior Developer | Next Level: Tech Lead
+\`\`\`
+
+### **Skill Mastery**
+
+\`\`\`
+Full-Stack Development    ████████████████████ 90%
+Java & Spring Boot        ███████████████████  85%
+Frontend Technologies     ██████████████████   80%
+Database Design           ████████████████     75%
+Team Leadership           ███████████████████  85%
+Teaching & Mentoring      ████████████████████ 95%
+\`\`\`
+
+</div>
+
+---
+
+## **Connect & Collaborate**
+
+<div align="center">
+
+### **Open for Opportunities**
+
+\`\`\`typescript
+interface CollaborationInterests {
+  openSource: boolean;
+  mentoring: boolean;
+  freelance: boolean;
+  fullTime: boolean;
+  speaking: boolean;
+}
+
+const opportunities: CollaborationInterests = {
+  openSource: true,    // Always ready to contribute
+  mentoring: true,     // Love helping developers grow
+  freelance: true,     // Interesting projects welcome
+  fullTime: false,     // Currently focused on Prime-Dev
+  speaking: true       // Tech talks and workshops
+};
+\`\`\`
+
+[![Email](https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+### **What I Can Help With**
+
+- Full-stack web application development
+- Java & Spring Boot architecture
+- Frontend development with React
+- Technical mentoring & code reviews
+- Project planning & team leadership
 
 </div>
 
@@ -147,38 +257,16 @@
 
 <div align="center">
 
-## 📊 Detailed Analytics
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to create it with   ║
+║   clean code, innovative solutions, and collaborative       ║
+║   spirit." - Mainak                                    ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
 
-</div>
+**From [mainak1023](https://github.com/mainak1023) with passion and dedication**
 
-<div align="center">
+*Last updated: January 2025 | Built with purpose, powered by curiosity*
 
-### 🔥 Contribution Patterns
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mainak1023&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mainak1023&theme=github_dark" alt="Most Commit Language" />
-
-### ⚡ Performance Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mainak1023&theme=github_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mainak1023&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💡-Always_Learning-blue?style=for-the-badge&logo=lightbulb"/>
-  <img src="https://img.shields.io/badge/🤝-Open_to_Collaborate-green?style=for-the-badge&logo=handshake"/>
-  <img src="https://img.shields.io/badge/🚀-Building_the_Future-purple?style=for-the-badge&logo=rocket"/>
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ Generated with passion and code ⚡</sub>
-  <br>
-  <sub>Last updated: <strong>January 2025</strong></sub>
 </div>
