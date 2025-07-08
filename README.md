@@ -217,7 +217,7 @@ Teaching & Mentoring      ██████████████████
 
 ## **Connect & Collaborate**
 
-<div align="center">
+<div align="left">
 
 ### **Open for Opportunities**
 
