@@ -12,7 +12,7 @@
 ║                                                              ║
 ║     West Bengal, India  •   Code-Driven  •   Always Learning ║
 ║                                                              ║
-║        "Build with purpose, code with passion"              ║
+║        "Build with purpose, code with passion"               ║
 ╚══════════════════════════════════════════════════════════════╝
 \`\`\`
 
@@ -38,10 +38,10 @@
 const mainak = {
   // Personal Matrix
   personalInfo: {
-    name: "Mainak Ghosh",
+    name: "Mainak Majumder",
     location: "West Bengal, India",
     role: "Full-Stack Developer",
-    company: "Co-Founder @ Clustrix.tech Pvt. Ltd.",
+    company: "Co-Founder @ Prime-Dev Technologies Pvt. Ltd.",
     experience: "3+ Years",
     languages: ["Python", "JavaScript", "Java"]
   },
@@ -239,9 +239,9 @@ const opportunities: CollaborationInterests = {
 };
 \`\`\`
 
-[![Email](https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainak1112@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mainakmajumder.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-majumder/)
 
 ### **What I Can Help With**
 
@@ -259,9 +259,9 @@ const opportunities: CollaborationInterests = {
 
 \`\`\`
 ╔══════════════════════════════════════════════════════════════╗
-║  "The best way to predict the future is to create it with   ║
-║   clean code, innovative solutions, and collaborative       ║
-║   spirit." - Mainak                                    ║
+║  "The best way to predict the future is to create it with    ║
+║   clean code, innovative solutions, and collaborative        ║
+║   spirit." - Mainak                                          ║
 ╚══════════════════════════════════════════════════════════════╝
 \`\`\`
 
