@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** • **Problem Solver** • **Tech Enthusiast**
 
-> *"উত্তিষ্ঠত জাগ্রত প্রাপ্য বরান নিবোধত"* — Arise, awake, and stop not until the goal is reached
+> *❝উত্তিষ্ঠত জাগ্রত প্রাপ্য বরান নিবোধত❞* — Arise, awake, and stop not until the goal is reached
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -166,10 +166,10 @@ console.log("Building the future, one commit at a time!");
 
 ### **Bhagavad Gita for Coders**
 
-> ### *"যদা যদা হি ধর্মস্য গ্লানির্ভবতি ভারত।*
+> ### *❝যদা যদা হি ধর্মস্য গ্লানির্ভবতি ভারত।*
 > ### *অভ্যুত্থানমধর্মস্য তদাত্মনং সৃজামহ্যম্।।*
 > ### *পরিত্রাণায় সাধূনাং বিনাশায় চ দুষ্কৃতাম্।*
-> ### *ধর্মসংস্থাপনার্থায় সম্ভবামি যুগে যুগে।।"*
+> ### *ধর্মসংস্থাপনার্থায় সম্ভবামি যুগে যুগে।।❞*
 
 > **"Whenever there is a decline in righteousness and an increase in unrighteousness, I manifest myself. For the protection of the good and the destruction of evil, and for the establishment of righteousness, I come into being age after age."**
 > 
