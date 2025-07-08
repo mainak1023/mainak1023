@@ -238,10 +238,12 @@ const opportunities: CollaborationInterests = {
   speaking: true       // Tech talks and workshops
 };
 ```
-
+<div align="left">
 [![Email](https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainak1112@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mainakmajumder.live)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-majumder/)
+
+</div>
 
 ### **What I Can Help With**
 
@@ -267,6 +269,6 @@ const opportunities: CollaborationInterests = {
 
 **From [mainak1023](https://github.com/mainak1023) with passion and dedication**
 
-*Last updated: January 2025 | Built with purpose, powered by curiosity*
+*Last updated: July 2025 | Built with purpose, powered by curiosity*
 
 </div>
