@@ -6,7 +6,7 @@
 
 > *"উত্তিষ্ঠত জাগ্রত প্রাপ্য বরান নিবোধত"* — Arise, awake, and stop not until the goal is reached
 
-\`\`\`
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║                    Welcome to my Code Universe!              ║
 ║                                                              ║
@@ -14,7 +14,7 @@
 ║                                                              ║
 ║        "Build with purpose, code with passion"               ║
 ╚══════════════════════════════════════════════════════════════╝
-\`\`\`
+```
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## **System.getCurrentStatus()**
 
-\`\`\`javascript
+```javascript
 const mainak = {
   // Personal Matrix
   personalInfo: {
@@ -71,7 +71,7 @@ const mainak = {
 };
 
 console.log("Building the future, one commit at a time!");
-\`\`\`
+```
 
 ---
 
@@ -109,7 +109,7 @@ console.log("Building the future, one commit at a time!");
 
 ## **Professional Journey**
 
-\`\`\`
+```
 2025 ━━━━━━━━━━● Co-Founder @ Prime-Dev Technologies
      │          └─ Leading technical architecture & innovation
      │
@@ -123,7 +123,7 @@ console.log("Building the future, one commit at a time!");
      │
 2019 ━━━━━━━━━━● Academic Foundation
      └────────── BSc Computer Science Journey
-\`\`\`
+```
 
 ---
 
@@ -187,7 +187,7 @@ console.log("Building the future, one commit at a time!");
 
 ### **2024-2025 Milestones**
 
-\`\`\`bash
+```bash
 \$ cat ~/.achievements | grep -E "(recent|2024|2025)" | head -8
 
 [2025-01-01]  Leadership: Co-founded Prime-Dev Technologies
@@ -198,18 +198,18 @@ console.log("Building the future, one commit at a time!");
 [2024-02-10]  Teaching Excellence: 2+ years of instruction experience
 
 Total Achievements: 25+ | Rank: Senior Developer | Next Level: Tech Lead
-\`\`\`
+```
 
 ### **Skill Mastery**
 
-\`\`\`
+```
 Full-Stack Development    ████████████████████ 90%
 Java & Spring Boot        ███████████████████  85%
 Frontend Technologies     ██████████████████   80%
 Database Design           ████████████████     75%
 Team Leadership           ███████████████████  85%
 Teaching & Mentoring      ████████████████████ 95%
-\`\`\`
+```
 
 </div>
 
@@ -221,7 +221,7 @@ Teaching & Mentoring      ██████████████████
 
 ### **Open for Opportunities**
 
-\`\`\`typescript
+```typescript
 interface CollaborationInterests {
   openSource: boolean;
   mentoring: boolean;
@@ -237,7 +237,7 @@ const opportunities: CollaborationInterests = {
   fullTime: false,     // Currently focused on Prime-Dev
   speaking: true       // Tech talks and workshops
 };
-\`\`\`
+```
 
 [![Email](https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainak1112@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mainakmajumder.live)
@@ -257,13 +257,13 @@ const opportunities: CollaborationInterests = {
 
 <div align="center">
 
-\`\`\`
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║  "The best way to predict the future is to create it with    ║
 ║   clean code, innovative solutions, and collaborative        ║
 ║   spirit." - Mainak                                          ║
 ╚══════════════════════════════════════════════════════════════╝
-\`\`\`
+```
 
 **From [mainak1023](https://github.com/mainak1023) with passion and dedication**
 
