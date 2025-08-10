@@ -1,7 +1,6 @@
 <div align="center">
 
 # **MAINAK MAJUMDER**
-
 **Full-Stack Developer** • **Problem Solver** • **Tech Enthusiast**
 
 > *❝উত্তিষ্ঠত জাগ্রত প্রাপ্য বরান নিবোধত❞* — Arise, awake, and stop not until the goal is reached
@@ -32,7 +31,11 @@
 
 ---
 
+<div align="center">
+
 ## **System.getCurrentStatus()**
+
+</div>
 
 ```javascript
 const mainak = {
@@ -45,7 +48,6 @@ const mainak = {
     experience: "3+ Years",
     languages: ["Python", "JavaScript", "Java"]
   },
-
   // Current Mission
   currentFocus: [
     "Building scalable web applications",
@@ -53,14 +55,12 @@ const mainak = {
     "Mentoring fellow developers",
     "Contributing to open source"
   ],
-
   // Philosophy
   philosophy: {
     code: "Clean code is not written by following a set of rules",
     learning: "Every challenge is an opportunity to grow",
     leadership: "Great leaders create more leaders"
   },
-
   // Fun Facts
   funFacts: [
     "762+ commits and counting",
@@ -69,13 +69,12 @@ const mainak = {
     "Coffee-to-code ratio: 1:100 lines"
   ]
 };
-
 console.log("Building the future, one commit at a time!");
 ```
 
-## **Ancient Wisdom for Modern Developers**
-
 <div align="center">
+
+## **Ancient Wisdom for Modern Developers**
 
 ### **Bhagavad Gita for Coders**
 
@@ -84,11 +83,11 @@ console.log("Building the future, one commit at a time!");
 > ### *পরিত্রাণায় সাধূনাং বিনাশায় চ দুষ্কৃতাম্।*
 > ### *ধর্মসংস্থাপনার্থায় সম্ভবামি যুগে যুগে।।❞*
 
-> **"Whenever there is a decline in righteousness and an increase in unrighteousness, I manifest myself. For the protection of the good and the destruction of evil, and for the establishment of righteousness, I come into being age after age."**
-> 
-> *— Bhagavad Gita 4.7-8*
-> 
-> **Developer Translation:** *When legacy code becomes unmaintainable and bugs multiply, a skilled developer emerges to refactor, debug, and establish clean coding practices for future generations.*
+**"Whenever there is a decline in righteousness and an increase in unrighteousness, I manifest myself. For the protection of the good and the destruction of evil, and for the establishment of righteousness, I come into being age after age."**
+
+*— Bhagavad Gita 4.7-8*
+
+**Developer Translation:** *When legacy code becomes unmaintainable and bugs multiply, a skilled developer emerges to refactor, debug, and establish clean coding practices for future generations.*
 
 </div>
 
