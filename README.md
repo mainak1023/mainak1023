@@ -44,7 +44,7 @@ const mainak = {
     name: "Mainak Majumder",
     location: "West Bengal, India",
     role: "Full-Stack Developer",
-    company: "Co-Founder @ Prime-Dev Technologies Pvt. Ltd.",
+    company: "Co-Founder @ Clustrix Tech Solutions Pvt. Ltd.",
     experience: "3+ Years",
     languages: ["Python", "JavaScript", "Java"]
   },
